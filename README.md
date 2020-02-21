@@ -1,7 +1,8 @@
 # devops_aula003
 - ATOR 1
-- ATOR 2
+- ATOR 2 - ALTERADO
 - ATOR 3
 - ATRIZ 1
 - ATRIZ 2
 - ATRIZ 3
+-ATOR 4
